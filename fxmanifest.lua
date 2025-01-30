@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-description 'Custom Vehicle Density System'
+description 'Vehicle Spawner System'
 author 'Sinor System'
 version '1.0.0'
 lua54 "yes"
